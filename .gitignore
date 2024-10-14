@@ -1,2 +1,3 @@
 data
 VGG8/vgg.cifar.pretrained.pth
+VGG16/vgg16_90+.pth
